@@ -1,6 +1,6 @@
 # B2B Market Intelligence Reports: Named Entity Recognition (NER) & Data Extraction
 
-[![Task](https://img.shields.io/badge/Task-Named_Entity_Recognition-purple)](#)
+[![Task](https://img.shields.io/badge/Task-Named_Entity_Recognition_(NER)-purple)](#)
 [![Tool](https://img.shields.io/badge/Annotation_Tool-Label_Studio-orange)](#)
 [![Domain](https://img.shields.io/badge/Domain-B2B_Market_Intelligence-blue)](#)
 
@@ -36,7 +36,7 @@ Annotations were completed following strict multi-class token classification gui
 > "The **2026 Q2** `[Date]` Market Intelligence Report utilizes a proprietary **secondary data aggregation framework** `[Methodology]` alongside field-level **key informant interviews (KIIs)** `[Methodology]` to evaluate cross-border investments in **East Africa** `[Location]`. The analysis reveals that the **Agribusiness** `[Sector]` sector witnessed a capital injection of **$450M** `[Key_Metric]`, driven heavily by regional warehouse expansions. Concurrently, **Infrastructure** `[Sector]` investments across **Mozambique** `[Location]` and **Kenya** `[Location]` scaled up by **14%** `[Key_Metric]` year-over-year..."
 
 ### Annotation Workspace (Label Studio)
-![Label Studio Workspace Interface](assets/label_studio_interface.png)
+![Label Studio Workspace Interface](assets/Label_Studio-B2B Market Intelligence NER.png)
 *Figure 1: Custom Label Studio UI showcasing multi-class token span classification and entity extraction across the target text abstract.*
 
 ---

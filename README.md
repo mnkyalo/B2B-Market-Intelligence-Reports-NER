@@ -38,6 +38,9 @@ Annotations were completed following strict multi-class token classification gui
 ### Annotation Workspace (Label Studio)
 ![Label Studio Workspace Interface](assets/Label_Studio-B2B_Market _Intelligence _NER.png)
 *Figure 1: Custom Label Studio UI showcasing multi-class token span classification and entity extraction across the target text abstract.*
+<p align="center">
+  <img src="./assets/Label_Studio-B2B_Market _Intelligence _NER.png" alt="Validation Predictions Preview" width="800"/>
+</p>
 
 ---
 

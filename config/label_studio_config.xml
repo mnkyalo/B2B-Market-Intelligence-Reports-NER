@@ -1,1 +1,15 @@
+<View>
+  <Header value="Task Instructions:"/>
+  <Text name="instructions" value="Carefully read the market abstract below. Highlight text segments and tag them with the correct entity label according to the strict classification criteria."/>
+  
+  <Labels name="label" toName="text">
+    <Label value="Location" background="#FFC0CB"/>
+    <Label value="Sector" background="#90EE90"/>
+    <Label value="Key_Metric" background="#ADD8E6"/>
+    <Label value="Date" background="#FFFACD"/>
+    <Label value="Methodology" background="#E6E6FA"/>
+  </Labels>
 
+  <Header value="Market Report Abstract:"/>
+  <Text name="text" value="$text"/>
+</View>
